@@ -1,0 +1,8 @@
+.validado{
+    border: 1px solid green;
+}
+
+.naoValidado{
+    border: 1px solid red;
+}
+
